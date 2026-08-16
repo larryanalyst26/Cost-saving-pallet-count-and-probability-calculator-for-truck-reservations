@@ -1,0 +1,2 @@
+# Cost-saving-pallet-count-and-probability-calculator-for-truck-reservations
+I coded this in my dispatching job to predict how many pallets there would be and the probability it would be under a threshold for each city we shipped to using total warehouse package count. I used weighted linear regression to predict package count and paired that with prediction intervals to get threshold probabilities, all in a Python function
