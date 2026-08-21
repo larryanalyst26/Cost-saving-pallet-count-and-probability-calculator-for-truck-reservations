@@ -1,5 +1,5 @@
 # Cost-saving-pallet-count-and-probability-calculator-for-truck-reservations
-This is a program I created in my previous dispatching job to find the most cost efficient truck size reservations for each city we shipped to. I want to note that this was done entirely by my own accord and was not asked of me. I spent time on this that was not paid extra for, so there are probably aspects where I could have went more in depth and definitely would have had I been in a technical role, which this was not.
+This is a program I created in my previous dispatching job, coded in Python, to find the most cost efficient truck size reservations for each city we shipped to. I want to note that this was done entirely by my own accord and was not asked of me. I spent time on this that was not paid extra for, so there are probably aspects where I could have went more in depth and definitely would have had I been in a technical role, which this was not.
 
 The technical problem I was solving:
 
