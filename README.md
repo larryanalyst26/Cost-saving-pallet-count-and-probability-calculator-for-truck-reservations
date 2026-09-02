@@ -1,6 +1,6 @@
 # Cost-saving-pallet-count-and-probability-calculator-for-truck-reservations
 
-This is a program I created and used in my previous dispatching job, coded in Python, to find the most cost efficient truck size reservations for each city we shipped to. This project was not asked of me. I did it on my own accord. I saved the company 5-15% daily in truck costs by using this program.
+This is a program I created and used in my previous dispatching job, coded in Python, to identify the most cost efficient truck size reservations for each city we shipped to. This project was not asked of me. I did it on my own accord. I saved the company 5-15% daily in truck costs by using this program.
 
 In the predPalletsPerCity.ipynb file, it shows the code of my program and it being executed on an actual set of data from a particular day for a particular city.
 
